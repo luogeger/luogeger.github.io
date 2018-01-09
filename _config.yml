@@ -14,13 +14,13 @@ url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username:
+facebook_username:
+github_username:  luogeger
+email: xiaoqing1232@163.com
+weibo_username: 小罗哥哥xl
+zhihu_username: luogeger
+linkedIn_username:
 dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
